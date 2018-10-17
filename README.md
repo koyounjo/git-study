@@ -12,9 +12,9 @@
 >> Live Server  
 >> Auto Close Tag
 >> Auto Rename Tag  
->> JS-CSS-HTML Formatter
->> Korean Language Pack for Visual Studio code
->> Markdown Preview Enhanced
+>> JS-CSS-HTML Formatter  
+>> Korean Language Pack for Visual Studio code  
+>> Markdown Preview Enhanced  
 >> Markdown Preview Github Styling
 
 ## CLI 명령어
