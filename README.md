@@ -4,13 +4,19 @@
 > 확장 프로그램 설치
 >> web developer  
 >> headingsmap  
->> Open Wax
+>> OpenWax  
+>> WhatFont
 
 > visual studio code 설치  
 > 확장 프로그램  
 >> Live Server  
 >> Auto Close Tag
 >> Auto Rename Tag  
+>> JS-CSS-HTML Formatter
+>> Korean Language Pack for Visual Studio code
+>> Markdown Preview Enhanced
+>> Markdown Preview Github Styling
+
 ## CLI 명령어
 * mkdir(디렉토리 생성)
 * cd(디렉토리 이동)
