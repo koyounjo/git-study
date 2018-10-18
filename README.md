@@ -6,5 +6,5 @@
         * visual studio code 설치  
         * 확장 프로그램
 ## 웹표준과 웹접근성
-* [DAY 2](./day1.md)
-* [DAY 3](./day1.md)
+* [DAY 2](./day2.md)
+* [DAY 3](./day3.md)
