@@ -1,0 +1,22 @@
+@charset "utf-8";
+.box1 {
+    background-color: #000;
+}
+
+.heading1 {
+    background: yellow;
+    position: relative;
+    top: -10px;
+    left: -5px;
+}
+
+.heading2 {
+    background: pink;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+.heading3 {
+    background: lime;
+}
