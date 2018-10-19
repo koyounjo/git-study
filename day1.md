@@ -1,13 +1,13 @@
 # 처음 시작하는 HTML과 CSS
 ## 개발 환경 설정
-* 모던 웹 브라우져 설치(크롬, 파이어폭스)  
-* 확장 프로그램 설치
+* 모던 웹 브라우져 설치([크롬](https://www.google.com/intl/ko_ALL/chrome/), [파이어폭스](https://www.mozilla.org/ko/firefox/new/))  
+* 브라우져 확장 프로그램 설치
     * web developer  
     * headingsmap  
     * OpenWax  
     * WhatFont
-* visual studio code 설치  
-* 확장 프로그램
+* [visual studio code](https://code.visualstudio.com/) 설치  
+* 비주얼 스튜디오 코드 확장 프로그램
     * Live Server  
     * Auto Close Tag
     * Auto Rename Tag  
@@ -25,7 +25,7 @@
 * cp(파일 복사)
 * mv(파일 이동 및 이름 변경)
 
-## Git의 활용
+## [Git](https://git-scm.com/download/win)의 활용
 * git init : 저장소 초기화
 * git status : 상태 확인  
 * git add : index로 이동(스테이지 이동)
@@ -74,3 +74,11 @@ p {
     margin-top: 0px;
 }
 ```
+
+## 참고 사이트
+[김데레사(강사) 홈페이지](https://github.com/seulbinim)  
+[누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)  
+[Git 간편안내서](https://rogerdudler.github.io/git-guide/index.ko.html)  
+[CSS ZEN Garden](https://rogerdudler.github.io/git-guide/index.ko.html)  
+[Emmet](https://emmet.io/)  
+
